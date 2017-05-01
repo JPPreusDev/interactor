@@ -1,0 +1,12 @@
+{
+    "authors": [
+        {
+            "email": "james@jppreusdev.com",
+            "name": "James Preus Jr <@JPPreusDev>",
+            "role": "Developer"
+        }
+    ],
+    "description": "A simple website user-interaction tracker.",
+    "license": "MIT",
+    "name": "jppreusdev/interactor"
+}
